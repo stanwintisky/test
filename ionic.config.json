@@ -1,5 +1,7 @@
 {
   "name": "SBS.MyApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
